@@ -19,7 +19,8 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 $georgia;
+  font-weight: 400;
   color: $darkGray;
 }
 
@@ -53,6 +54,8 @@ h1 {
 
 h2 {
   font-size: 24px;
+  color: $gray;
+  font-style: italic;
 }
 
 h3 {
