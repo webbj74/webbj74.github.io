@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say voice="man" language="en">Hello and welcome to the twenty first century. I no longer accept phone calls. Please email me.</Say>
+  <Pause length="1"/>
+  <Say voice="woman" language="en">Let me repeat that. I no longer accept phone calls. Please email me.</Say>
+  <Pause length="1"/>
+  <Say voice="alice" language="en-US">Message 1 0 3</Say>
+</Response>
